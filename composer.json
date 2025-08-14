@@ -1,0 +1,11 @@
+{
+    "name": "ministore/app",
+    "description": "MiniStore simple e-commerce platform using PHP OOP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MiniStore\\": "src/"
+        }
+    },
+    "require": {}
+}
